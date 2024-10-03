@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Edumarshal App**
 
-- 🌱 I’m currently learning **django**
+- 🌱 I am proficient in **django**
 
-- 💬 Ask me about **kotlin , web development**
+- 💬 Ask me about **kotlin , web development , backend**
 
 - 📫 How to reach me **nidhi9904sharma@gmail.com**
 
