@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **kotlin , web development , backend**
 
-- 📫 How to reach me **nidhi9904sharma@gmail.com**
+- 📫 How to reach me **nidhi2112sharma@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
